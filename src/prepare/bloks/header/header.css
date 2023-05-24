@@ -1,0 +1,10 @@
+.header {
+  width: 100%;
+  min-height: 75px;
+  display: grid;
+  grid-template-columns: 300px 1000px;
+  gap: 39px 50px;
+  justify-items: center;
+  align-items: center;
+  box-sizing: border-box;
+}

@@ -1,0 +1,14 @@
+:root {
+  --color-white: #FFF;
+  --color-main: #784AB2;
+  --color-second: #F3E9FF;
+  --color-text: #3C124A;
+  --color-dark:#301E46;
+  --color-light: #F5EEFF;
+  --color-shadow: rgba(120, 74, 179, 0.3);
+
+  --size-title: 33px;
+  --size-text: 24px;
+  --size-menu: 20px;
+  --size-button: 30px;
+}

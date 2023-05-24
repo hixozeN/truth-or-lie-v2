@@ -1,0 +1,6 @@
+.header__profile-rank {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: var(--size-button);
+  margin: 0;
+}

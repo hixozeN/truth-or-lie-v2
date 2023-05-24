@@ -1,0 +1,6 @@
+.header__profile-name {
+  font-weight: 800;
+  font-size: var(--size-text);
+  line-height: 36px;
+  margin: 0;
+}

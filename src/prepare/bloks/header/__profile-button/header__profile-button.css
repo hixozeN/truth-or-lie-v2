@@ -1,0 +1,12 @@
+.header__profile-button {
+  width: 75px;
+  height: 75px;
+  background-color: var(--color-light);
+  border: none;
+  border-radius: 50%;
+  box-shadow: 0px 0px 40px 3px var(--color-shadow);
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
