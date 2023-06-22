@@ -7,8 +7,7 @@
   font-weight: 400;
   font-size: 24px;
   line-height: var(--size-text);
-  background-color: var(--color-white);
+  background-color: var(--color-light);
   margin: 0;
   padding: 0;
-  
 }

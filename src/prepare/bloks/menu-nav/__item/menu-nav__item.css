@@ -1,0 +1,9 @@
+.menu-nav__item {
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+.menu-nav__item:last-of-type {
+  margin-top: auto;
+  margin-bottom: 0;
+}

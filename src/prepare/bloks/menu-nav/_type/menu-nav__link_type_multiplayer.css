@@ -1,0 +1,3 @@
+.menu-nav__link_type_multiplayer::before {
+  background-image: url(../../../images/icon-multiplayer.svg);
+}

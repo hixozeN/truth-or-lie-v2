@@ -1,0 +1,5 @@
+.greed {
+  display: grid;
+  grid-template-columns: 300px 1000px;
+  gap: 39px 50px;
+}

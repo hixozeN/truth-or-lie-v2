@@ -5,6 +5,10 @@
 @import url(../prepare/bloks/page/page.css);
 @import url(../prepare/bloks/page/__container/page__container.css);
 
+@import url(../prepare/bloks/greed/greed.css);
+@import url(../prepare/bloks/button/button.css);
+@import url(../prepare/bloks/container/container.css);
+
 /* Header */
 @import url(../prepare/bloks/header/header.css);
 @import url(../prepare/bloks/header/__wrap/header__wrap.css);
@@ -14,3 +18,22 @@
 @import url(../prepare/bloks/header/__profile-name/header__profile-name.css);
 @import url(../prepare/bloks/header/__profile-rank/header__profile-rank.css);
 @import url(../prepare/bloks/header/__profile-button/header__profile-button.css);
+@import url(../prepare/bloks/header/__nav-button/header__nav-button.css);
+@import url(../prepare/bloks/header/__nav-button/_type/header__nav-button_type_friends.css);
+@import url(../prepare/bloks/header/__nav-button/_type/header__nav-button_type_rating.css);
+@import url(../prepare/bloks/header/__nav-button/_type/header__nev-button_type_challenge.css);
+
+@import url(../prepare/bloks/main/main.css);
+@import url(../prepare/bloks/main/__container/main__container.css);
+@import url(../prepare/bloks/main/__title/main__title.css);
+@import url(../prepare/bloks/main/__text/main__text.css);
+
+@import url(../prepare/bloks/menu-nav/menu-nav.css);
+@import url(../prepare/bloks/menu-nav/__list/menu-nav__list.css);
+@import url(../prepare/bloks/menu-nav/__item/menu-nav__item.css);
+@import url(../prepare/bloks/menu-nav/__link/menu-nav__link.css);
+@import url(../prepare/bloks/menu-nav/_type/menu-nav__link_type_menu.css);
+@import url(../prepare/bloks/menu-nav/_type/menu-nav__link_type_multiplayer.css);
+@import url(../prepare/bloks/menu-nav/_type/menu-nav__link_type_notification.css);
+@import url(../prepare/bloks/menu-nav/_type/menu-nav__link_type_reg.css);
+@import url(../prepare/bloks/menu-nav/_type/menu-nav__link_type_theme.css);

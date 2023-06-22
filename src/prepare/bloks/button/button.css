@@ -1,0 +1,14 @@
+.button {
+  border: none;
+  background: none;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 45px;
+  min-width: 272px;
+  height: 64px;
+  padding: 0;
+  background-color: var(--color-main);
+  border-radius: 30px;
+  color: var(--color-light);
+  font-family: 'Poppins', sans-serif;
+}
