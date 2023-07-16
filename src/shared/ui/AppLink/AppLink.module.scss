@@ -1,0 +1,20 @@
+.AppLink {
+  // color: var(--primary-color);
+  text-decoration: none;
+  font: var(--font-m);
+
+  transition: var(--transition-default);
+}
+
+.primary {
+  color: var(--primary-color);
+}
+.secondary {
+  color: var(--inverted-primary-color);
+}
+
+@media (hover: hover) {
+  .AppLink:hover {
+    opacity: var(--opacity-hover);
+  }
+}

@@ -1,0 +1,26 @@
+@import 'reset';
+@import 'fonts/fonts';
+@import 'variables/global';
+@import 'themes/normal';
+@import 'themes/dark';
+
+.app {
+  font: var(--font-m);
+  background: var(--inverted-bg-color);
+  color: var(--primary-color);
+  min-height: 100vh;
+
+  transition: var(--transition-default);
+}
+.page-content {
+  display: flex;
+}
+.page-wrapper {
+  background-color: var(--bg-color);
+  border-radius: 5%;
+  padding: 25px;
+  margin: 25px;
+  flex-grow: 1;
+  box-shadow: 0px 0px 20px 3px rgba(120, 74, 178, 0.30);
+  overflow: visible;
+}
